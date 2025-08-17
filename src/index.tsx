@@ -12,7 +12,7 @@ root.render(
   <React.StrictMode>
     <App />
     <Demo />
-    <h1>hello world</h1>
+    <h1>hello world,cang</h1>
   </React.StrictMode>
 );
 
